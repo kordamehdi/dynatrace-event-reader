@@ -7,7 +7,7 @@ plugins {
 jar {
     manifest {
         attributes(
-                'Main-Class': 'com.cvshealth.epa.dynatracereader.dynatraceeventreader.DynatraceEventReaderApplication'
+                'Main-Class': 'main.java.com.cvshealth.epa.dynatracereader.dynatraceeventreader.DynatraceEventReaderApplication'
         )
     }
 }
